@@ -1,5 +1,17 @@
 # @status-im/components
 
+## 1.2.0
+
+### Minor Changes
+
+- ff8dd31: Add JSON-LD schema utilities to @status-im/components for SEO structured data
+- d292620: Refactor JSON-LD utilities with default values, add 410 Gone response handling for invalid paths, and implement technical SEO for the Status Network website
+
+### Patch Changes
+
+- be3d8dc: display tooltip on mobile
+- 55cb107: use TKARMA
+
 ## 1.1.0
 
 ### Minor Changes
